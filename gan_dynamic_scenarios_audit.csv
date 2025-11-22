@@ -1,0 +1,6 @@
+ScenarioID,ScenarioType,GDP_Growth,PD,LGD,EAD,Description,Source,Parameters,TransformNotes
+GAN_1,GAN_Dynamic,-5.0439577,4.668145,3.277424,-8.4386015,Synthetic scenario from GAN generator,GAN,weights: 1897 | latent_dim: 16 | data_dim: 9,Generated with GAN on macro+event+portfolio shocks
+GAN_2,GAN_Dynamic,-5.3481045,5.294715,1.8095671,-10.135194,Synthetic scenario from GAN generator,GAN,weights: 1897 | latent_dim: 16 | data_dim: 9,Generated with GAN on macro+event+portfolio shocks
+GAN_3,GAN_Dynamic,-7.1490393,7.0669794,2.3175156,-10.292373,Synthetic scenario from GAN generator,GAN,weights: 1897 | latent_dim: 16 | data_dim: 9,Generated with GAN on macro+event+portfolio shocks
+GAN_4,GAN_Dynamic,-5.929144,3.9514656,2.6327724,-8.465563,Synthetic scenario from GAN generator,GAN,weights: 1897 | latent_dim: 16 | data_dim: 9,Generated with GAN on macro+event+portfolio shocks
+GAN_5,GAN_Dynamic,-5.561326,4.718355,2.7272112,-10.699692,Synthetic scenario from GAN generator,GAN,weights: 1897 | latent_dim: 16 | data_dim: 9,Generated with GAN on macro+event+portfolio shocks
